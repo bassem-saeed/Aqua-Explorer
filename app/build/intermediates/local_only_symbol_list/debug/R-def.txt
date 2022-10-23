@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable bar
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable menu_burger_18
+drawable menu_burger_20
+drawable menu_burger_24
+drawable menu_burger_36
+drawable menu_burger_48
+id more
+id topAppBar
+layout activity_main
+menu top_app_bar
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Application
