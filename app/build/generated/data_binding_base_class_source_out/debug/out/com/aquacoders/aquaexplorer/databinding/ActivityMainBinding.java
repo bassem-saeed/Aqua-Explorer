@@ -4,9 +4,11 @@ package com.aquacoders.aquaexplorer.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.aquacoders.aquaexplorer.R;
@@ -20,11 +22,33 @@ public final class ActivityMainBinding implements ViewBinding {
   private final CoordinatorLayout rootView;
 
   @NonNull
+  public final LinearLayout list1Container;
+
+  @NonNull
+  public final LinearLayout list2Container;
+
+  @NonNull
+  public final LinearLayout listsContainer;
+
+  @NonNull
+  public final RecyclerView recyclerview1;
+
+  @NonNull
+  public final RecyclerView recyclerview2;
+
+  @NonNull
   public final MaterialToolbar topAppBar;
 
   private ActivityMainBinding(@NonNull CoordinatorLayout rootView,
-      @NonNull MaterialToolbar topAppBar) {
+      @NonNull LinearLayout list1Container, @NonNull LinearLayout list2Container,
+      @NonNull LinearLayout listsContainer, @NonNull RecyclerView recyclerview1,
+      @NonNull RecyclerView recyclerview2, @NonNull MaterialToolbar topAppBar) {
     this.rootView = rootView;
+    this.list1Container = list1Container;
+    this.list2Container = list2Container;
+    this.listsContainer = listsContainer;
+    this.recyclerview1 = recyclerview1;
+    this.recyclerview2 = recyclerview2;
     this.topAppBar = topAppBar;
   }
 
@@ -55,13 +79,44 @@ public final class ActivityMainBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
+      id = R.id.list1_container;
+      LinearLayout list1Container = ViewBindings.findChildViewById(rootView, id);
+      if (list1Container == null) {
+        break missingId;
+      }
+
+      id = R.id.list2_container;
+      LinearLayout list2Container = ViewBindings.findChildViewById(rootView, id);
+      if (list2Container == null) {
+        break missingId;
+      }
+
+      id = R.id.lists_container;
+      LinearLayout listsContainer = ViewBindings.findChildViewById(rootView, id);
+      if (listsContainer == null) {
+        break missingId;
+      }
+
+      id = R.id.recyclerview1;
+      RecyclerView recyclerview1 = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerview1 == null) {
+        break missingId;
+      }
+
+      id = R.id.recyclerview2;
+      RecyclerView recyclerview2 = ViewBindings.findChildViewById(rootView, id);
+      if (recyclerview2 == null) {
+        break missingId;
+      }
+
       id = R.id.topAppBar;
       MaterialToolbar topAppBar = ViewBindings.findChildViewById(rootView, id);
       if (topAppBar == null) {
         break missingId;
       }
 
-      return new ActivityMainBinding((CoordinatorLayout) rootView, topAppBar);
+      return new ActivityMainBinding((CoordinatorLayout) rootView, list1Container, list2Container,
+          listsContainer, recyclerview1, recyclerview2, topAppBar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

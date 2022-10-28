@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.databinding:viewbinding:7.2.1] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/df898cdfbae24db7784ff44878f0023f/transformed/viewbinding-7.2.1/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.core:core-ktx:1.8.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3ed7439c5d381e2246b4f6eef0cd64e3/transformed/core-ktx-1.8.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.material:material:1.6.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7112882458346b3c96d029b33c5c9c65/transformed/material-1.6.0/AndroidManifest.xml:17:1-26:12
@@ -45,25 +45,37 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /data/data/com.itsaky.and
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1d18743e00d455065c872bdc2b178adf/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/d3b28d87830d00998418c82be693cb95/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/115e7fd5d97eaeeb8c4b8249a27ebcf5/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
-INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
 		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:3:5-42
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-23:12
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:1-25:12
 		INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:4:2-77
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:4:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:6:5-82
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:6:22-79
 application
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:7:5-23:19
 MERGED from [com.google.android.material:material:1.6.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7112882458346b3c96d029b33c5c9c65/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.6.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7112882458346b3c96d029b33c5c9c65/transformed/material-1.6.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/b7c6be4db15b87335589bada0dc41a2a/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -81,33 +93,33 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] /data/data/com.itsaky.andro
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.8.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/35f4a948deebfe6e56a5492680c1f66f/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:10:9-36
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:12:9-36
 	android:label
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:11:9-49
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:13:9-49
 activity#com.aquacoders.aquaexplorer.MainActivity
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:exported
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:14:13-36
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
 INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml

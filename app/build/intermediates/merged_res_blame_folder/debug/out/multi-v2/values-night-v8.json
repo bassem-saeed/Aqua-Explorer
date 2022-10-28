@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
+            "outputFile": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
                     "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c37c6d3ff19edbdfa5216425187d658a/transformed/appcompat-1.4.2/res/values-night-v8/values-night-v8.xml",
@@ -15,9 +15,9 @@
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,46",
                         "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "100,170,254,338,434,536,638,3974",
+                        "startOffsets": "100,170,254,338,434,536,638,3973",
                         "endColumns": "69,83,83,95,101,101,93,88",
-                        "endOffsets": "165,249,333,429,531,633,727,4058"
+                        "endOffsets": "165,249,333,429,531,633,727,4057"
                     }
                 },
                 {
@@ -28,7 +28,7 @@
                         "startOffsets": "100",
                         "endLines": "14",
                         "endColumns": "12",
-                        "endOffsets": "806"
+                        "endOffsets": "805"
                     },
                     "to": {
                         "startLines": "9",
@@ -36,7 +36,7 @@
                         "startOffsets": "732",
                         "endLines": "21",
                         "endColumns": "12",
-                        "endOffsets": "1315"
+                        "endOffsets": "1314"
                     }
                 },
                 {
@@ -51,9 +51,77 @@
                     "to": {
                         "startLines": "22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,47,48,49,50,51,52,53,54",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "1320,1395,1506,1595,1696,1803,1910,2009,2112,2200,2324,2426,2528,2644,2746,2860,2988,3104,3226,3362,3482,3616,3736,3848,4063,4180,4304,4434,4556,4694,4828,4944",
+                        "startOffsets": "1319,1394,1505,1594,1695,1802,1909,2008,2111,2199,2323,2425,2527,2643,2745,2859,2987,3103,3225,3361,3481,3615,3735,3847,4062,4179,4303,4433,4555,4693,4827,4943",
                         "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
-                        "endOffsets": "1390,1501,1590,1691,1798,1905,2004,2107,2195,2319,2421,2523,2639,2741,2855,2983,3099,3221,3357,3477,3611,3731,3843,3969,4175,4299,4429,4551,4689,4823,4939,5059"
+                        "endOffsets": "1389,1500,1589,1690,1797,1904,2003,2106,2194,2318,2420,2522,2638,2740,2854,2982,3098,3220,3356,3476,3610,3730,3842,3968,4174,4298,4428,4550,4688,4822,4938,5058"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-24:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c37c6d3ff19edbdfa5216425187d658a/transformed/appcompat-1.4.2/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,53",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "413,483,567,651,747,849,951,4286",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "478,562,646,742,844,946,1040,4370"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/res/values-night/themes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "1045",
+                        "endLines": "28",
+                        "endColumns": "12",
+                        "endOffsets": "1627"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/res/values-night/colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,326",
+                        "endColumns": "39,46,46,46,44,44,41",
+                        "endOffsets": "321,97,144,191,236,281,363"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "100,140,187,234,281,326,371",
+                        "endColumns": "39,46,46,46,44,44,41",
+                        "endOffsets": "135,182,229,276,321,366,408"
+                    }
+                },
+                {
+                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7112882458346b3c96d029b33c5c9c65/transformed/material-1.6.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,54,55,56,57,58,59,60,61",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1632,1707,1818,1907,2008,2115,2222,2321,2424,2512,2636,2738,2840,2956,3058,3172,3300,3416,3538,3674,3794,3928,4048,4160,4375,4492,4616,4746,4868,5006,5140,5256",
+                        "endColumns": "74,110,88,100,106,106,98,102,87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,116,123,129,121,137,133,115,119",
+                        "endOffsets": "1702,1813,1902,2003,2110,2217,2316,2419,2507,2631,2733,2835,2951,3053,3167,3295,3411,3533,3669,3789,3923,4043,4155,4281,4487,4611,4741,4863,5001,5135,5251,5371"
                     }
                 }
             ]

@@ -5,7 +5,14 @@ import android.os.Bundle
 import android.util.Log
 import android.content.Context
 import android.widget.Toast
+
+import androidx.recyclerview.widget.RecyclerView
+
+import java.io.File
+
+import com.aquacoders.aquaexplorer.RecyclerView.*
 import com.aquacoders.aquaexplorer.databinding.ActivityMainBinding
+
 import com.itsaky.androidide.logsender.LogSender
 
 public class MainActivity : AppCompatActivity() {
@@ -21,5 +28,8 @@ public class MainActivity : AppCompatActivity() {
         
         // set content view to binding's root
         setContentView(binding.root)
+        var list1 = File("/storage/emulated/0/")
+        val adapter = RecyclerViewAdapter(list1.listFiles())
+        binding.recyclerview1.adapter = adapter
     }
 }
