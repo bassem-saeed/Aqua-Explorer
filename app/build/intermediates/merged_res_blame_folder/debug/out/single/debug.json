@@ -1,186 +1,234 @@
 [
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-xxhdpi\\ic_baseline_oui_settings_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxhdpi_menu_burger_20.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxhdpi/menu_burger_20.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_menu_burger_20.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-hdpi\\menu_burger_20.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\activity_main.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_menu_burger_48.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxxhdpi\\menu_burger_48.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxxhdpi_menu_burger_36.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxxhdpi/menu_burger_36.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-mdpi_menu_burger_18.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-mdpi/menu_burger_18.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable_bar.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable/bar.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_menu_burger_20.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xhdpi\\menu_burger_20.png"
     },
     {
-        "merged": "com.aquacoders.aquaexplorer.app-merged_res-26:/layout_item.xml.flat",
-        "source": "com.aquacoders.aquaexplorer.app-main-28:/layout/item.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-hdpi\\ic_baseline_oui_settings_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxhdpi_menu_burger_18.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxhdpi/menu_burger_18.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-anydpi-v24_ic_baseline_oui_settings_24.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-anydpi-v24\\ic_baseline_oui_settings_24.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable_menu_burger_24.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable/menu_burger_24.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_menu_burger_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxhdpi\\menu_burger_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_menu_burger_18.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxxhdpi\\menu_burger_18.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/layout_activity_main.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/layout/activity_main.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-hdpi_menu_burger_24.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-hdpi/menu_burger_24.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_menu_burger_18.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xhdpi\\menu_burger_18.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-mdpi_menu_burger_20.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-mdpi/menu_burger_20.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_ic_baseline_export_apk.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\ic_baseline_export_apk.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_menu_burger_36.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxxhdpi\\menu_burger_36.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_menu_burger_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-mdpi\\menu_burger_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xhdpi_menu_burger_48.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xhdpi/menu_burger_48.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_menu_burger_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xhdpi\\menu_burger_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_menu_burger_20.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-mdpi\\menu_burger_20.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxhdpi_menu_burger_36.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxhdpi/menu_burger_36.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_menu_burger_18.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-hdpi\\menu_burger_18.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-hdpi_menu_burger_48.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-hdpi/menu_burger_48.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-xxxhdpi\\ic_baseline_oui_settings_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-mdpi_menu_burger_36.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-mdpi/menu_burger_36.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_bar.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\bar.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xhdpi_menu_burger_24.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xhdpi/menu_burger_24.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_ic_baseline_upgrade_24.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\ic_baseline_upgrade_24.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable_ic_launcher_background.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xhdpi_menu_burger_18.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xhdpi/menu_burger_18.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-xhdpi\\ic_baseline_oui_settings_24.png"
     },
     {
-        "merged": "com.aquacoders.aquaexplorer.app-merged_res-26:/layout_activity_main.xml.flat",
-        "source": "com.aquacoders.aquaexplorer.app-main-28:/layout/activity_main.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\menu_top_app_bar.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\menu\\top_app_bar.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxxhdpi_menu_burger_48.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxxhdpi/menu_burger_48.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_menu_burger_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-hdpi\\menu_burger_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-hdpi_menu_burger_20.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-hdpi/menu_burger_20.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_menu_burger_20.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxxhdpi\\menu_burger_20.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxxhdpi_menu_burger_20.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxxhdpi/menu_burger_20.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_menu_burger_36.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xhdpi\\menu_burger_36.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxxhdpi_menu_burger_18.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxxhdpi/menu_burger_18.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxxhdpi_menu_burger_24.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxxhdpi/menu_burger_24.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/menu_top_app_bar.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/menu/top_app_bar.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_menu_burger_36.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-mdpi\\menu_burger_36.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/layout_item.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/layout/item.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\ic_baseline_share_24.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_menu_burger_18.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxhdpi\\menu_burger_18.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-mdpi_menu_burger_48.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-mdpi/menu_burger_48.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-hdpi_menu_burger_18.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-hdpi/menu_burger_18.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_ic_round_folder_24.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\ic_round_folder_24.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-hdpi_menu_burger_36.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-hdpi/menu_burger_36.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxxhdpi_menu_burger_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxxhdpi\\menu_burger_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_menu_burger_48.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxhdpi\\menu_burger_48.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_menu_burger_18.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-mdpi\\menu_burger_18.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxhdpi_menu_burger_24.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxhdpi/menu_burger_24.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_menu_burger_36.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-hdpi\\menu_burger_36.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xhdpi_menu_burger_36.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xhdpi/menu_burger_36.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-ldpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-ldpi\\ic_baseline_oui_settings_24.png"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xhdpi_menu_burger_20.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xhdpi/menu_burger_20.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_menu_burger_24.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\menu_burger_24.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-mdpi_menu_burger_24.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-mdpi/menu_burger_24.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-merged_res-26:/drawable-xxhdpi_menu_burger_48.png.flat",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/drawable-xxhdpi/menu_burger_48.png"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\menu_main.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_ic_baseline_oui_settings_24.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-pngs-24:\\drawable-mdpi\\ic_baseline_oui_settings_24.png"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_menu_burger_20.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxhdpi\\menu_burger_20.png"
+    },
+    {
+        "merged": "com.aquacoders.aquaexplorer.app-merged_res-29:/layout_item.xml.flat",
+        "source": "com.aquacoders.aquaexplorer.app-main-31:/layout/item.xml"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xhdpi_menu_burger_48.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xhdpi\\menu_burger_48.png"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-mdpi_menu_burger_48.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-mdpi\\menu_burger_48.png"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\layout_main_drawer_header.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\main_drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\layout_item.xml.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\item.xml"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-hdpi_menu_burger_48.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-hdpi\\menu_burger_48.png"
+    },
+    {
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-merged_res-29:\\drawable-xxhdpi_menu_burger_36.png.flat",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\drawable-xxhdpi\\menu_burger_36.png"
     }
 ]

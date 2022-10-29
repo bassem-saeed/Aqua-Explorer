@@ -1,18 +1,18 @@
 [
     {
-        "merged": "com.aquacoders.aquaexplorer.app-mergeDebugResources-25:/layout/item.xml",
-        "source": "com.aquacoders.aquaexplorer.app-main-28:/layout/item.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-mergeDebugResources-28:\\layout\\item.xml",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\item.xml"
     },
     {
-        "merged": "com.aquacoders.aquaexplorer.app-mergeDebugResources-25:/layout/activity_main.xml",
-        "source": "com.aquacoders.aquaexplorer.app-main-28:/layout/activity_main.xml"
+        "merged": "com.aquacoders.aquaexplorer.app-mergeDebugResources-28:/layout/item.xml",
+        "source": "com.aquacoders.aquaexplorer.app-main-31:/layout/item.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-mergeDebugResources-25:/layout/item.xml",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/layout/item.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-mergeDebugResources-28:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\activity_main.xml"
     },
     {
-        "merged": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-mergeDebugResources-25:/layout/activity_main.xml",
-        "source": "/data/data/com.itsaky.androidide/files/home/.gradle/daemon/7.4.2/com.aquacoders.aquaexplorer.app-main-28:/layout/activity_main.xml"
+        "merged": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-mergeDebugResources-28:\\layout\\main_drawer_header.xml",
+        "source": "C:\\Users\\abodi esmo\\.gradle\\daemon\\7.4.2\\com.aquacoders.aquaexplorer.app-main-31:\\layout\\main_drawer_header.xml"
     }
 ]

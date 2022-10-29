@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-24:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-27:/values-w320dp-land-v13/values-w320dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7112882458346b3c96d029b33c5c9c65/transformed/material-1.6.0/res/values-w320dp-land-v13/values-w320dp-land-v13.xml",
+                    "source": "C:\\Users\\abodi esmo\\.gradle\\caches\\transforms-3\\7ba9008a0393291ab10b012c98b31307\\transformed\\material-1.7.0\\res\\values-w320dp-land-v13\\values-w320dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

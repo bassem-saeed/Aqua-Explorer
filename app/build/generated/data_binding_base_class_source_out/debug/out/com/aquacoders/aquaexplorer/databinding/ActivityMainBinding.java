@@ -7,19 +7,20 @@ import android.view.ViewGroup;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.coordinatorlayout.widget.CoordinatorLayout;
+import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.aquacoders.aquaexplorer.R;
 import com.google.android.material.appbar.MaterialToolbar;
+import com.google.android.material.navigation.NavigationView;
 import java.lang.NullPointerException;
 import java.lang.Override;
 import java.lang.String;
 
 public final class ActivityMainBinding implements ViewBinding {
   @NonNull
-  private final CoordinatorLayout rootView;
+  private final DrawerLayout rootView;
 
   @NonNull
   public final LinearLayout list1Container;
@@ -31,6 +32,9 @@ public final class ActivityMainBinding implements ViewBinding {
   public final LinearLayout listsContainer;
 
   @NonNull
+  public final NavigationView mainNav;
+
+  @NonNull
   public final RecyclerView recyclerview1;
 
   @NonNull
@@ -39,14 +43,15 @@ public final class ActivityMainBinding implements ViewBinding {
   @NonNull
   public final MaterialToolbar topAppBar;
 
-  private ActivityMainBinding(@NonNull CoordinatorLayout rootView,
-      @NonNull LinearLayout list1Container, @NonNull LinearLayout list2Container,
-      @NonNull LinearLayout listsContainer, @NonNull RecyclerView recyclerview1,
+  private ActivityMainBinding(@NonNull DrawerLayout rootView, @NonNull LinearLayout list1Container,
+      @NonNull LinearLayout list2Container, @NonNull LinearLayout listsContainer,
+      @NonNull NavigationView mainNav, @NonNull RecyclerView recyclerview1,
       @NonNull RecyclerView recyclerview2, @NonNull MaterialToolbar topAppBar) {
     this.rootView = rootView;
     this.list1Container = list1Container;
     this.list2Container = list2Container;
     this.listsContainer = listsContainer;
+    this.mainNav = mainNav;
     this.recyclerview1 = recyclerview1;
     this.recyclerview2 = recyclerview2;
     this.topAppBar = topAppBar;
@@ -54,7 +59,7 @@ public final class ActivityMainBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public CoordinatorLayout getRoot() {
+  public DrawerLayout getRoot() {
     return rootView;
   }
 
@@ -97,6 +102,12 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.main_nav;
+      NavigationView mainNav = ViewBindings.findChildViewById(rootView, id);
+      if (mainNav == null) {
+        break missingId;
+      }
+
       id = R.id.recyclerview1;
       RecyclerView recyclerview1 = ViewBindings.findChildViewById(rootView, id);
       if (recyclerview1 == null) {
@@ -115,8 +126,8 @@ public final class ActivityMainBinding implements ViewBinding {
         break missingId;
       }
 
-      return new ActivityMainBinding((CoordinatorLayout) rootView, list1Container, list2Container,
-          listsContainer, recyclerview1, recyclerview2, topAppBar);
+      return new ActivityMainBinding((DrawerLayout) rootView, list1Container, list2Container,
+          listsContainer, mainNav, recyclerview1, recyclerview2, topAppBar);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

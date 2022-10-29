@@ -30,7 +30,7 @@ class RecyclerViewAdapter(var list: Array<File>): RecyclerView.Adapter<RecyclerV
 			file_size.text = list_data.getTotalSpace().toString()
 			file_name.text = list_data.getName()
 		}
-        holder.folder_name.setOnClickListener{
+        holder.card_item.setOnClickListener{
             var mmm = File(list_data.absolutePath)
             var ttt = mmm.listFiles().toList()
             var directories = contents.filter{ it.isDirectory }.sortedWith(compareBy{it})
@@ -42,6 +42,7 @@ class RecyclerViewAdapter(var list: Array<File>): RecyclerView.Adapter<RecyclerV
 			holder.folder_name.text = list_data.getName()
 			holder.file_size.text = list_data.getTotalSpace().toString()
 			holder.file_name.text = list_data.getName()
+			notifyDataSetChanged()
         }
 	}
 	override fun getItemCount(): Int = list.size

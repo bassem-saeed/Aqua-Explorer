@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-24:/values-v18/values-v18.xml",
+            "outputFile": "com.aquacoders.aquaexplorer.app-mergeDebugResources-27:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "/data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/c37c6d3ff19edbdfa5216425187d658a/transformed/appcompat-1.4.2/res/values-v18/values-v18.xml",
+                    "source": "C:\\Users\\abodi esmo\\.gradle\\caches\\transforms-3\\c77460d790e8c23e35e2fa0de9a1d90f\\transformed\\appcompat-1.5.0\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

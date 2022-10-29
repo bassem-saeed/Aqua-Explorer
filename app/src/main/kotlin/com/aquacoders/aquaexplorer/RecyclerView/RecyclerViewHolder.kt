@@ -4,6 +4,7 @@ package com.aquacoders.aquaexplorer
 import android.view.View
 import android.widget.TextView
 import android.widget.ImageView
+import android.widget.LinearLayout
 /* End Android Views Import */
 import androidx.cardview.widget.CardView
 /* Start Libraries Import */
@@ -13,7 +14,7 @@ import androidx.recyclerview.widget.RecyclerView
 class RecyclerViewHolder(view: View): RecyclerView.ViewHolder(view){
 
  //   val item_img = view.findViewById<ImageView>(R.id.item_img)
-    val card_item = view.findViewById<CardView>(R.id.cardview1)
+    val card_item = view.findViewById<LinearLayout>(R.id.list_item_main)
     val item_date = view.findViewById<TextView>(R.id.item_date)
     
     val folder_name = view.findViewById<TextView>(R.id.item_name)

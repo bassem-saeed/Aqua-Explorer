@@ -6,76 +6,90 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
+8-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml
+9-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml
 10
-11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-11-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:4:2-77
-11-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:4:19-74
-12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:5:5-81
-12-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:5:22-78
-13    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
-13-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:6:5-82
-13-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:6:22-79
-14
-15    <application
-15-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:7:5-23:19
-16        android:allowBackup="true"
-16-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:8:9-35
-17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.8.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/35f4a948deebfe6e56a5492680c1f66f/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
-18        android:debuggable="true"
-19        android:icon="@mipmap/ic_launcher"
-19-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:9:9-43
-20        android:label="@string/app_name"
-20-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:10:9-41
-21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:11:9-54
-22        android:supportsRtl="false"
-22-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:12:9-36
-23        android:theme="@style/Theme.Application" >
-23-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:13:9-49
-24        <activity
-24-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:14:9-22:20
-25            android:name="com.aquacoders.aquaexplorer.MainActivity"
-25-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:15:13-41
-26            android:exported="true" >
-26-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:16:13-36
-27            <intent-filter>
-27-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:17:13-21:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:17-69
-28-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:18:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:20:17-77
-30-->/storage/emulated/0/AndroidIDEProjects/AquaExplorer/app/src/main/AndroidManifest.xml:20:27-74
-31            </intent-filter>
-32        </activity>
-33
-34        <provider
-34-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-35            android:name="androidx.startup.InitializationProvider"
-35-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
-36            android:authorities="com.aquacoders.aquaexplorer.androidx-startup"
-36-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
-37            android:exported="false" >
-37-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
-38            <meta-data
-38-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-39                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-39-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
-40                android:value="androidx.startup" />
-40-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/7c325a205bad1302d7073d1cbfd4301e/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
-41            <meta-data
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e8a3534ef31e13ca9d365f2ba15c592c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-42                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e8a3534ef31e13ca9d365f2ba15c592c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-43                android:value="androidx.startup" />
-43-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/e8a3534ef31e13ca9d365f2ba15c592c/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-44        </provider>
-45    </application>
-46
-47</manifest>
+11    <uses-permission
+11-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:4:2-104
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:4:19-74
+13        android:maxSdkVersion="28" />
+13-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:4:75-101
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:5:5-81
+14-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:5:22-78
+15    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+15-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:6:5-82
+15-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:6:22-79
+16    <uses-permission android:name="android.permission.REQUEST_INSTALL_PACKAGES" />
+16-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:7:5-82
+16-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:7:22-80
+17    <uses-permission android:name="android.permission.REQUEST_DELETE_PACKAGES" />
+17-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:8:5-81
+17-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:8:22-79
+18
+19    <application
+19-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:9:5-27:19
+20        android:allowBackup="true"
+20-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:10:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.8.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\79171de21fab8304e1cf118de1a40a70\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/ic_launcher"
+23-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:11:9-43
+24        android:label="@string/app_name"
+24-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:12:9-41
+25        android:largeHeap="true"
+25-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:15:9-33
+26        android:requestLegacyExternalStorage="true"
+26-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:16:9-52
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:13:9-54
+28        android:supportsRtl="false"
+28-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:14:9-36
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:17:9-40
+31        <activity
+31-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:18:9-26:20
+32            android:name="com.aquacoders.aquaexplorer.MainActivity"
+32-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:19:13-41
+33            android:exported="true" >
+33-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:20:13-36
+34            <intent-filter>
+34-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:21:13-25:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:22:17-69
+35-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:22:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:24:17-77
+37-->C:\Users\abodi esmo\AndroidStudioProjects\Aqua-Explorer\app\src\main\AndroidManifest.xml:24:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+43            android:authorities="com.aquacoders.aquaexplorer.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\abodi esmo\.gradle\caches\transforms-3\6655a27276696a3e33c3548e655f82e9\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\abodi esmo\.gradle\caches\transforms-3\01ef2e5c3d7b61d3397007c34ee45172\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\abodi esmo\.gradle\caches\transforms-3\01ef2e5c3d7b61d3397007c34ee45172\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\abodi esmo\.gradle\caches\transforms-3\01ef2e5c3d7b61d3397007c34ee45172\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>
